@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206934283408",
+    "project_id": "baigk-c0124",
+    "storage_bucket": "baigk-c0124.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206934283408:android:1daadd7a77cceb5de6f415",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUKvtJID23g309w2J4Ir9x9HvO-cllDG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206934283408:android:52b8be3823395c21e6f415",
+        "android_client_info": {
+          "package_name": "com.example.notegk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUKvtJID23g309w2J4Ir9x9HvO-cllDG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

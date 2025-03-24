@@ -1,0 +1,9 @@
+<!-- res/values/themes.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.FirebaseTest2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Tùy chỉnh màu chủ đạo -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+    </style>
+</resources>
